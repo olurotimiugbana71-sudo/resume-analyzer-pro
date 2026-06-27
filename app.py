@@ -102,6 +102,7 @@ if uploaded:
                 pdf_out = pdf.output(dest='S').encode('latin-1')
                 pdf_b64 = base64.b64encode(pdf_out).decode()
                 st.download_button("Download PDF", pdf_out, "resume_report.pdf", "application/pdf")
+                
         else:
             st.info("Activate license for PDF report")
 

@@ -4,5 +4,17 @@
     "tier": "premium",
     "created": "2026-06-16T23:00:33.762611",
     "expires": "2027-06-16T23:00:33.762611"
+  },
+  "ARX-AD33-77B7-B912": {
+    "email": "buyer@gmail.com",
+    "tier": "standard",
+    "created": "2026-06-19T02:19:32.559307",
+    "expires": "2027-06-19T02:19:32.559307"
+  },
+  "ARX-4F0F-9D4A-D12F": {
+    "email": "buyer@email.com",
+    "tier": "premium",
+    "created": "2026-06-19T02:21:39.660715",
+    "expires": "2027-06-19T02:21:39.660715"
   }
 }
